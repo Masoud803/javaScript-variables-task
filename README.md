@@ -1,1 +1,1 @@
-# javaScript-variables-task
+# Repository for SMIT assignment javaScript variables exerices
